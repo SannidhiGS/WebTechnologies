@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Java Assignment</title>
+</head>
+
+<body>
+    <div>
+        <section>
+            <b><i>Literals</i></b>
+            <p>There are four kinds of literals: string, numeric, Boolean, and enum.<br>
+
+                <mark>String literals: </mark>A string literal is enclosed in single quotes:<br>
+
+                'Duke'<br>
+                If a string literal contains a single quote, you indicate the quote by using two single quotes:<br>
+
+                'Duke''s'<br>
+                Like a Java String, a string literal in the query language uses the Unicode character encoding.<br>
+
+                <mark>Numeric literals:</mark> There are two types of numeric literals: exact and approximate.<br>
+
+                An exact numeric literal is a numeric value without a decimal point, such as 65, –233, and +12. Using
+                the Java integer syntax, exact numeric literals support numbers in the range of a Java long.<br>
+
+                An approximate numeric literal is a numeric value in scientific notation, such as 57., –85.7, and +2.1.
+                Using the syntax of the Java floating-point literal, approximate numeric literals support numbers in the
+                range of a Java double.<br>
+
+                <mark>Boolean literals: </mark>A Boolean literal is either TRUE or FALSE. These keywords are not
+                case-sensitive.<br>
+
+                <mark>Enum literals:</mark> The Java Persistence query language supports the use of enum literals using
+                the Java enum literal syntax. The enum class name must be specified as a fully qualified class name:<br>
+
+                SELECT e<br>
+                FROM Employee e<br>
+                WHERE e.status = com.xyz.EmployeeStatus.FULL_TIME
+            </p><br>
+
+            <b><i>Keywords</i></b>
+            <p>Here is a list of keywords in the Java programming language. You cannot use any of the following as
+                identifiers in your programs. The keywords const and goto are reserved, even though they are not
+                currently used. true, false, and null might seem like keywords, but they are actually literals; you
+                cannot use them as identifiers in your programs.
+            </p>
+
+            <b><i>Array</i></b>
+            <p>An array is a container object that holds a fixed number of values of a single type.</p>
+            <b>Methods</b>
+            <p>In Java, methods are blocks of code designed to perform specific tasks. They are part of a class and
+                define the behavior of objects. Methods allow you to organize and reuse code efficiently, improving
+                readability and reducing redundancy.
+
+                Key Components of a Method:<br>
+                Modifiers: Define the access level (e.g., public, private) or behavior (e.g., static, final) of the
+                method.<br>
+                Return Type: Specifies the type of value the method returns (e.g., int, void if no value is
+                returned).<br>
+                Method Name: A unique identifier for the method, following Java naming conventions.<br>
+                Parameters: Optional inputs passed to the method, enclosed in parentheses.<br>
+                Method Body: The block of code enclosed in braces {} that defines the actions performed by the
+                method.<br>
+                Example:<br>
+                Copy the code<br>
+                public class Example {<br>
+                // A simple method to add two numbers<br>
+                public int addNumbers(int a, int b) {<br>
+                return a + b; // Returns the sum of a and b<br>
+                }<br>
+
+                public static void main(String[] args) {<br>
+                Example obj = new Example();<br>
+                int result = obj.addNumbers(5, 10);<br>
+                System.out.println("Sum: " + result); // Output: Sum: 15<br>
+                }
+                }
+
+                Why Use Methods?<br>
+                Code Reusability: Write once, use multiple times.<br>
+                Modularity: Break down complex problems into smaller, manageable pieces.<br>
+                Readability: Makes the code easier to understand and maintain.<br>
+
+                For more details, you can explore the Oracle Java Documentation.</p>
+            <b>Operators</b>
+            <p>Operators are special symbols that perform specific operations on one, two, or three operands, and then
+                return a result. As we explore the operators of the Java programming language, it may be helpful for you
+                to know ahead of time which operators have the highest precedence.</p>
+            <b><i>looping techniques</i></b>
+            <p>The statements inside your source files are generally executed from top to bottom, in the order that they
+                appear. Control flow statements, however, break up the flow of execution by employing decision making,
+                looping, and branching, enabling your program to conditionally execute particular blocks of code. This
+                section describes the decision-making statements (if-then, if-then-else, switch), the looping statements
+                (for, while, do-while), and the branching statements (break, continue, return) supported by the Java
+                programming language.</p>
+        </section>
+    </div>
+</body>
+
+</html>
