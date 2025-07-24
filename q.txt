@@ -1,0 +1,243 @@
+
+
+Pre Assessment -CH09ROM25 (Week - 6)
+Points:
+17/20
+Time:
+06:49
+Student Details
+Student name
+Sannidhi G S
+Email id
+ssannidhigs@gmail.com
+Contact number
+9535812585
+Section 2
+Object,Class
+Correct
+1/1 Points
+What is a class in Java?
+
+A blueprint for objects
+
+A data type
+
+A variable
+
+A method
+Correct
+1/1 Points
+ What is an object in Java?
+
+A method
+
+A loop
+
+An instance of a class
+
+A keyword
+Correct
+1/1 Points
+Which keyword is used to create a new object?
+
+create
+
+make
+
+new
+
+object
+Correct
+1/1 Points
+Can a class have both variables and methods?
+
+No
+
+Yes
+
+Only methods
+
+Only variables
+Incorrect
+0/1 Points
+Can we overload constructors in Java?
+
+No, only methods can be overloaded
+
+Yes, but all must have the same number of parameters
+
+Yes, with different parameter lists
+
+Yes, if they are static
+Correct
+1/1 Points
+What is true about constructor overloading?
+
+A class can only have one constructor
+
+Constructors cannot be overloaded
+
+Constructors with the same name but different parameters
+
+It means calling constructor from another constructor
+Correct
+1/1 Points
+When is a constructor called?
+
+When class is loaded
+
+When object is created using new
+
+When object is destroyed
+
+When method is called
+Correct
+1/1 Points
+ Which of these is a valid way to create an object of class Car?
+
+Car = new car();
+
+Car myCar = Car();
+
+Car myCar = new Car();
+
+create Car myCar;
+Incorrect
+0/1 Points
+What happens if you don’t assign a value to an object reference?
+
+It will have 0
+
+It will be false
+
+It will be null
+
+It will be true
+Correct
+1/1 Points
+Which of these is a valid way to create an object in Java?
+
+Person p = new Person();
+
+Person();
+
+new Person p = Person;
+
+Person = new();
+Correct
+1/1 Points
+What happens if no constructor is defined in a class?
+
+Code won't compile
+
+Class cannot be instantiated
+
+Java provides a default constructor
+
+You must write a static block
+Correct
+1/1 Points
+ What is System in Java?
+
+A variable
+
+A method
+
+A class
+
+A loop
+Incorrect
+0/1 Points
+How do you access an object’s method?
+
+class.method()
+
+method.object()
+
+object.method()
+
+method->object
+Correct
+1/1 Points
+What does null mean for an object?
+
+Object is deleted
+
+Object is empty
+
+Object is not referring to anything
+
+Object is destroyed
+Correct
+1/1 Points
+What does the new keyword do?
+
+Destroys an object
+
+Declares a class
+
+Prints output
+
+Creates an object
+Correct
+1/1 Points
+What will happen if a constructor is declared private?
+
+Object cannot be created from outside the class
+
+It will throw runtime error
+
+Constructor will be inherited
+
+Class won't compile
+Correct
+1/1 Points
+Which statement is true about constructor name?
+
+It can be different from class name
+
+It must match the class name
+
+ It must be "Constructor"
+
+It must be static
+Correct
+1/1 Points
+What does the <th> tag represent in a table?
+
+Table heading cell
+
+Table hidden row
+
+Table horizontal line
+
+Table hyperlink
+Correct
+1/1 Points
+Which tag is used to create a form in HTML?
+
+<input>
+
+<form>
+
+<field>
+
+<action>
+Correct
+1/1 Points
+Which attribute specifies how to send form data?
+
+submit
+
+type
+
+method
+
+send
+Keep the information with you by saving your response.
+Save my response
+Go back to thank you page
+Microsoft 365
+This content is created by the owner of the form. The data you submit will be sent to the form owner. Microsoft is not responsible for the privacy or security practices of its customers, including those of this form owner. Never give out your password.
+Microsoft Forms | AI-Powered surveys, quizzes and pollsCreate my own form
+Privacy and cookies | Consumer Health Privacy | Terms of use

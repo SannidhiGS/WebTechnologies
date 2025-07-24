@@ -1,0 +1,13 @@
+1.What is web technology?
+2.what is html?
+3.what is tags?
+4.types of tags and differences
+5.What is element?
+6.what are the types of element?
+7.Diffference between element
+8.what is semantic and non semantic tags with example
+9.types of disk?
+10.what is the attributes of anchor tag?
+11.What is anchor tag?
+12.what is DocType?
+13 what is head,body,tittle,meta tag?
