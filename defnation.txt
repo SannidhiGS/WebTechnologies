@@ -11,3 +11,5 @@
 11.What is anchor tag?
 12.what is DocType?
 13 what is head,body,tittle,meta tag?
+
+(why?version,expansion)
